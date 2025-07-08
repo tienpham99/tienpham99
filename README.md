@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @tienpham99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Tino</h1>
+<h3 align="center">A Fullstack Developer who talks to APIs more than people.</h3>
 
-<!---
-tienpham99/tienpham99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+💻 Fullstack @ Zalo Platform  
+🔌 Zalo API | Mini App Zalo  
+🔥 Debug mọi lúc – Deploy mọi nơi  
+☕ Code tốt hơn khi có cà phê
+
+---
+
+### 🛠️ Stack hiện tại
+
+```ts
+// Code chủ yếu bằng:
+const languages = ['TypeScript', 'JavaScript', 'C#'];
+
+// Dùng hàng ngày:
+const tools = ['Node.js', 'NestJS', '.NET Core', 'MongoDB', 'SQL Server'];
